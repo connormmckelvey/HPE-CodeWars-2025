@@ -1,6 +1,9 @@
 # HPE-CodeWars-2025
 Problem solutions for the HPE CodeWars Competition 2025
 
+|32 Points Earned|10 Problems Solved|2 Person Team|
+|----|----|----|
+
 ## File Structure
 - `/passed` - problems that were submitted and approved by the judges
 - `/attempted` - problems submitted that were either rejected or pending
